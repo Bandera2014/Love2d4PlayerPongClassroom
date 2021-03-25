@@ -1,5 +1,5 @@
 # Love2d4PlayerPongClassroom
-You and Bander will be venturing back into time and develop the famous Pong utilizing Love2d and Lua.  We'll practice some version control in this assignment.  We'll build the basic retro 2 player version, but after that, you'll be required to make this a little more advanced and build out a 4 player version.  Yes, it will be pure chaos.  Go ahead and create the different versions required (listed below).  I also have a link posted to where to download Love2d.  We'll need to use an older version for our code to work.  
+You and Bander will be venturing back into time and develop the famous Pong utilizing Love2d and Lua.  We'll practice some version control in this assignment.  We'll build the basic retro 2 player version, but after that, you'll be required to make this a little more advanced and build out a 4 player version.  Yes, it will be pure chaos.  Go ahead and create the different directories required (listed below).  I also have a link posted to where to download Love2d.  We'll need to use an older version for our code to work.  
 
 ## Installing Love2d
 - [ ] [Love2d Download](https://github.com/love2d/love/releases/download/0.10.2/love-0.10.2-win64.exe)
@@ -11,7 +11,7 @@ You and Bander will be venturing back into time and develop the famous Pong util
 
 ## List of Directories
  - [ ] pong0-helloworld
- - [ ] pong1-retrographics
+ - [ ] pong1-retroGraphics
  - [ ] pong2-paddleBallSetup
  - [ ] pong3-paddleMovement
  - [ ] pong4-ballMovementPlusStart
@@ -24,6 +24,7 @@ You and Bander will be venturing back into time and develop the famous Pong util
  - [ ] pong11-sound
  - [ ] pong12-resize
  - [ ] pong13-PVC
+ - [ ] pong14-4PlayerVersion
 
 
 
