@@ -39,3 +39,4 @@ Take our completed version of Pong built with Lua and add in 4 player pong.
 - The game is over once 1 person loses all 7 points (You will need to update the victory statem).
 - For a challenge and some bonus points, start the ball on the paddle of the serve, and serve the ball from the paddle.
 - For another challenge and some bonus points, if one paddle scores 3 times in a row, its paddle speed decreases.
+- For even more bonus points, do a litle research and put the game on an Android Device
