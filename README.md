@@ -10,10 +10,10 @@ You and Bander will be venturing back into time and develop the famous Pong util
 
 
 ## List of Directories
- - [ ] pong0-helloworld
- - [ ] pong1-retroGraphics
- - [ ] pong2-paddleBallSetup
- - [ ] pong3-paddleMovement
+ - [X] pong0-helloworld
+ - [X] pong1-retroGraphics
+ - [X] pong2-paddleBallSetup
+ - [X] pong3-paddleMovement
  - [ ] pong4-ballMovementPlusStart
  - [ ] pong5-classes
  - [ ] pong6-fps
