@@ -14,8 +14,8 @@ You and Bander will be venturing back into time and develop the famous Pong util
  - [X] pong1-retroGraphics
  - [X] pong2-paddleBallSetup
  - [X] pong3-paddleMovement
- - [ ] pong4-ballMovementPlusStart
- - [ ] pong5-classes
+ - [X] pong4-ballMovementPlusStart
+ - [X] pong5-classes
  - [ ] pong6-fps
  - [ ] pong7-collision
  - [ ] pong8-scoring
