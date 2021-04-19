@@ -16,15 +16,16 @@ You and Bander will be venturing back into time and develop the famous Pong util
  - [X] pong3-paddleMovement
  - [X] pong4-ballMovementPlusStart
  - [X] pong5-classes
- - [ ] pong6-fps
- - [ ] pong7-collision
- - [ ] pong8-scoring
- - [ ] pong9-serving
+ - [X] pong6-fps
+ - [X] pong7-collision
+ - [X] pong8-scoring
+ - [X] pong9-serving
  - [ ] pong10-victory
  - [ ] pong11-sound
  - [ ] pong12-resize
  - [ ] pong13-PVC
  - [ ] pong14-4PlayerVersion
+ - [ ] pong15-4computerVScomputer
 
 
 
