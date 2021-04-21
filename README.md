@@ -20,9 +20,9 @@ You and Bander will be venturing back into time and develop the famous Pong util
  - [X] pong7-collision
  - [X] pong8-scoring
  - [X] pong9-serving
- - [ ] pong10-victory
- - [ ] pong11-sound
- - [ ] pong12-resize
+ - [X] pong10-victory
+ - [X] pong11-sound
+ - [X] pong12-resize
  - [ ] pong13-PVC
  - [ ] pong14-4PlayerVersion
  - [ ] pong15-4computerVScomputer
